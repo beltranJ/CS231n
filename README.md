@@ -8,4 +8,4 @@ The course lessons (2017) are avaible on youtube [here](https://www.youtube.com/
 - Q2: Training a Support Vector Machine *(finished)*
 - Q3: Implement a Softmax classifier *(finished)*
 - Q4: Two-Layer Neural Network *(finished)*
--Q5: features *(finished)*
+- Q5: features *(finished)*
