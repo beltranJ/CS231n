@@ -18,9 +18,9 @@ The course lessons (2017) are avaible on youtube [here](https://www.youtube.com/
 - Q5: PyTorch/TensorFlow on CIFAR-10 (10%) *(done)*
 
 ## Assignment 3:
-Q1: Image Captioning with Vanilla RNNs (30 points) *(done)*
-Q2: Image Captioning with Transformers (20 points) *(doing)*
-Q3: Network Visualization: Saliency Maps, Class Visualization, and Fooling Images (15 points)
-Q4: Generative Adversarial Networks (15 points)
-Q5: Self-Supervised Learning for Image Classification (20 points)
+- Q1: Image Captioning with Vanilla RNNs (30 points) *(done)*
+- Q2: Image Captioning with Transformers (20 points) *(doing)*
+- Q3: Network Visualization: Saliency Maps, Class Visualization, and Fooling Images (15 points)
+- Q4: Generative Adversarial Networks (15 points)
+- Q5: Self-Supervised Learning for Image Classification (20 points)
 Extra Credit: Image Captioning with LSTMs (5 points)
