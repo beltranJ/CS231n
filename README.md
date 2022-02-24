@@ -13,7 +13,7 @@ The course lessons (2017) are avaible on youtube [here](https://www.youtube.com/
 ## Assignment 2:
 - Q1: Multi-Layer Fully Connected Neural Networks 
 - Q2: Batch Normalization
-- Q3: Dropout *(done)*
+- Q3: Dropout 
 - Q4: Convolutional Neural Networks 
 - Q5: PyTorch/TensorFlow on CIFAR-10 
 
