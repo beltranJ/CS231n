@@ -23,4 +23,4 @@ The course lessons (2017) are avaible on youtube [here](https://www.youtube.com/
 - Q3: Network Visualization: Saliency Maps, Class Visualization, and Fooling Images 
 - Q4: Generative Adversarial Networks 
 - Q5: Self-Supervised Learning for Image Classification 
-Extra Credit: Image Captioning with LSTMs 
+- Extra Credit: Image Captioning with LSTMs 
